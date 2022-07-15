@@ -1,0 +1,15 @@
+E:\C3\first\SimpleGame\SimpleGame\obj\Debug\net6.0\SimpleGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\C3\first\SimpleGame\SimpleGame\obj\Debug\net6.0\SimpleGame.AssemblyInfoInputs.cache
+E:\C3\first\SimpleGame\SimpleGame\obj\Debug\net6.0\SimpleGame.AssemblyInfo.cs
+E:\C3\first\SimpleGame\SimpleGame\obj\Debug\net6.0\SimpleGame.csproj.CoreCompileInputs.cache
+E:\C3\first\SimpleGame\SimpleGame\bin\Debug\net6.0\SimpleGame.exe
+E:\C3\first\SimpleGame\SimpleGame\bin\Debug\net6.0\SimpleGame.deps.json
+E:\C3\first\SimpleGame\SimpleGame\bin\Debug\net6.0\SimpleGame.runtimeconfig.json
+E:\C3\first\SimpleGame\SimpleGame\bin\Debug\net6.0\SimpleGame.dll
+E:\C3\first\SimpleGame\SimpleGame\bin\Debug\net6.0\ref\SimpleGame.dll
+E:\C3\first\SimpleGame\SimpleGame\bin\Debug\net6.0\SimpleGame.pdb
+E:\C3\first\SimpleGame\SimpleGame\obj\Debug\net6.0\SimpleGame.dll
+E:\C3\first\SimpleGame\SimpleGame\obj\Debug\net6.0\ref\SimpleGame.dll
+E:\C3\first\SimpleGame\SimpleGame\obj\Debug\net6.0\SimpleGame.pdb
+E:\C3\first\SimpleGame\SimpleGame\obj\Debug\net6.0\SimpleGame.genruntimeconfig.cache
+E:\C3\first\SimpleGame\SimpleGame\obj\Debug\net6.0\SimpleGame.csproj.AssemblyReference.cache
